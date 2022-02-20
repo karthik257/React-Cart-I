@@ -1,0 +1,130 @@
+{
+    "posts":[
+        {
+            "id":1,
+            "category":"paintings",
+            "title":"First Painting",
+            "image":"https://images.pexels.com/photos/3991396/pexels-photo-3991396.png?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "price":"100"
+        },
+        {
+            "id":2,
+            "category":"paintings",
+            "title":"Second Painting",
+            "image":"https://images.pexels.com/photos/1148998/pexels-photo-1148998.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price":"200"
+        },
+        {
+            "id":3,
+            "category":"paintings",
+            "title":"Third Painting",
+            "image":"https://images.pexels.com/photos/1149022/pexels-photo-1149022.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price":"300"
+        },
+        {
+            "id":4,
+            "category":"paintings",
+            "title":"Fourth Painting",
+            "image":"https://images.pexels.com/photos/917594/pexels-photo-917594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "price":"400"
+        },
+         {
+            "id":5,
+            "category":"paintings",
+            "title":"Fifth Painting",
+            "image":"https://images.pexels.com/photos/3660029/pexels-photo-3660029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "price":"500"
+        },
+        {
+            "id":6,
+            "category":"paintings",
+            "title":"Sixth Painting",
+            "image":"https://images.pexels.com/photos/3894557/pexels-photo-3894557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "price":"600"
+        },
+         {
+            "id":7,
+            "category":"electronics",
+            "title":"Seventh Electronic",
+            "image":"https://images.pexels.com/photos/682933/pexels-photo-682933.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price":"700"
+        },
+         {
+            "id":8,
+            "category":"electronics",
+            "title":"Eighth Electronic",
+            "image":"https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price":"800"
+        },
+         {
+            "id":9,
+            "category":"electronics",
+            "title":"Ninth Electronic",
+            "image":"https://images.pexels.com/photos/187041/pexels-photo-187041.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "price":"900"
+        },
+         {
+            "id":10,
+            "category":"electronics",
+            "title":"Tenth Electronic",
+            "image":"https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price":"1000"
+        },
+         {
+            "id":11,
+            "category":"electronics",
+            "title":"Eleventh Electronic",
+            "image":"https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price":"1500"
+        },
+         {
+            "id":12,
+            "category":"electronics",
+            "title":"Twelth Electronic",
+            "image":"https://images.pexels.com/photos/3937174/pexels-photo-3937174.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price":"2000"
+        },
+         {
+            "id":13,
+            "category":"clothes",
+            "title":"First Cloth",
+            "image":"https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "price":"300"
+        },
+         {
+            "id":14,
+            "category":"clothes",
+            "title":"Second Cloth",
+            "image":"https://images.pexels.com/photos/996329/pexels-photo-996329.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "price":"600"
+        },
+        {
+            "id":15,
+            "category":"clothes",
+            "title":"third Cloth",
+            "image":"https://images.pexels.com/photos/9594940/pexels-photo-9594940.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price":"900"
+        },
+         {
+            "id":16,
+            "category":"clothes",
+            "title":"Fourth Cloth",
+            "image":"https://images.pexels.com/photos/46212/men-s-shirt-shirt-attire-clothing-46212.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price":"1200"
+        },
+        {
+            "id":17,
+            "category":"clothes",
+            "title":"Fifth Cloth",
+            "image":"https://images.pexels.com/photos/6059866/pexels-photo-6059866.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price":"1500"
+        },
+{
+            "id":18,
+            "category":"clothes",
+            "title":"Sixth Cloth",
+            "image":"https://images.pexels.com/photos/5424917/pexels-photo-5424917.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "price":"1800"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+h3{
+    color: khaki
+}
+.footContainer{
+    display: flex;
+    align-items: center;
+    /* margin: 2em; */
+    /* border: 2px solid red; */
+    justify-content: space-around;
+    background-color: cornflowerblue;
+}
+
